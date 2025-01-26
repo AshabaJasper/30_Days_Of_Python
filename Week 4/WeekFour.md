@@ -1,6 +1,6 @@
 # 🐍 Week 4: Advanced Python 🚀
 
-Welcome to the fourth week of the "30 Days of Python: From Beginner to Advanced" challenge! This week, we'll start learning about exceptions, testing, decorators, and more. We're heading into the home stretch, so keep up the great work! 💡
+Welcome to the fourth week of the "30 Days of Python: From Beginner to Advanced" challenge! This week, we'll start learning about exceptions, testing, decorators, and more. We're heading into the home stretch, so keep up the great work! 💡 
 
 ---
 

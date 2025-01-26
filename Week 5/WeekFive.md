@@ -1,7 +1,7 @@
 # 🐍 Week 5: More Advanced Python 🚀
 
 Welcome to the final week of the "30 Days of Python: From Beginner to Advanced" challenge! This week, we'll be focusing on Python Database Access, Networking, Web Scraping, and Data Science Basics. After that, we'll head into Python projects to put our newly acquired skills into practice. Let's wrap up this challenge strongly! 💡
-
+ 
 ---
 
 ## 📝 Day 25: Python Database Access
